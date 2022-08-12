@@ -11,23 +11,27 @@ We encourage you to use the samples in this repository as a starting point for y
 How to create an image classification application using Flask and CNN.
 
 [Youtube](https://)
+
 [Slide](https://docs.google.com/presentation/d/1CSJE7O_6yfX5buTxY9GsckRusZ46Q2QOxsyIXYDVvxU/edit?usp=sharing)
 
 ## 01
 TBA
 
 [Youtube](https://)
+
 [Slide](https://)
 
 ## 02
 TBA
 
 [Youtube](https://)
-[Slide](https://\)
+
+[Slide](https://)
 
 
 ## 03
 TBA
 
 [Youtube](https://)
+
 [Slide](https://)
