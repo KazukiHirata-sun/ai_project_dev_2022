@@ -22,11 +22,11 @@ How to create a machine learning project using AutoML
 [Slide](https://docs.google.com/presentation/d/1BjtTwf7X_SXzvGwmOg5H7CT5qink_8j0-Jl68Fur6A8/edit?usp=sharing)
 
 ## section_2
-TBA
+Natural language processing using BERT
 
 [Youtube](https://)
 
-[Slide](https://)
+[Slide](https://docs.google.com/presentation/d/1bKbPwjB2kHcphS-ttxcNx_tuc8_X6K781gxf3brMmZc/edit?usp=sharing)
 
 
 ## section_3
