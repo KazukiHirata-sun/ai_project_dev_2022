@@ -30,8 +30,8 @@ Natural language processing using BERT
 
 
 ## section_3
-TBA
+Image classification by various models
 
 [Youtube](https://)
 
-[Slide](https://)
+[Slide](https://docs.google.com/presentation/d/1WYdBSSP8FXAhNFAJQX8rGG38wTKFNfbJjD-XFOYAUKA/edit?usp=sharing)
