@@ -21,6 +21,7 @@ n_result = 3  # Top 3
 
 app = Flask(__name__)
 app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
+app.config['MAX_CONTENT_LENGTH'] = 1024 * 1024 * 16
 
 
 class Net(nn.Module):
@@ -43,8 +44,17 @@ class Net(nn.Module):
         return x
 
 
+def fetch_model():
+    _net = Net()
+    _net.load_state_dict(torch.load("model_cnn.pth", map_location=torch.device("cpu")))
+    return _net
+
+
 def allowed_file(filename):
     return "." in filename and filename.rsplit(".", 1)[1].lower() in ALLOWED_EXTENSIONS
+
+
+net = fetch_model()
 
 
 @app.route("/", methods=["GET", "POST"])
