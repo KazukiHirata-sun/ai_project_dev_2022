@@ -10,14 +10,12 @@ We encourage you to use the samples in this repository as a starting point for y
 ## Appendix
 How to create an image classification application using Flask and CNN.
 
-[Youtube](https://)
-
 [Slide](https://docs.google.com/presentation/d/1CSJE7O_6yfX5buTxY9GsckRusZ46Q2QOxsyIXYDVvxU/edit?usp=sharing)
 
 ## section_1
 How to create a machine learning project using AutoML
 
-[Youtube](https://)
+[Youtube](https://youtube.com/playlist?list=PLGc1xNh3VVULvHicqjXaWrHGueJTJzSzS)
 
 [Slide](https://docs.google.com/presentation/d/1BjtTwf7X_SXzvGwmOg5H7CT5qink_8j0-Jl68Fur6A8/edit?usp=sharing)
 
